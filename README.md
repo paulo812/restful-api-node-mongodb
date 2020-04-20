@@ -1,1 +1,1 @@
-## Base para a criação de umma RESTful API utilizando MongoDB.
+## Base para a criação de uma RESTful API utilizando MongoDB.
